@@ -3,6 +3,6 @@
 
 ##A MFC-based Painter
 
-###Support basic drawing operations including circles, lines, rectangles, eraser ...
+###Support basic drawings including circles, lines, rectangles, eraser, etc.
 
 ![Simple Painter](/images/mfc.png "A simple painter")
